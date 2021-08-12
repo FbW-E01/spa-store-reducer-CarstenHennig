@@ -1,0 +1,48 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.startButton {
+  background: black;
+  color: green;
+  font-size: 25px;
+  margin: 10px;
+  padding: 20px;
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+}
+
+.stoppedButton {
+  background: black;
+  color: red;
+  font-size: 25px;
+  margin: 10px;
+  padding: 20px;
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+}
+
+.gear {
+  background: lightcyan;
+  font-size: 25px;
+  margin: 10px;
+  padding: 20px;
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+}
+
+.speed {
+  background: lightgrey;
+  font-size: 25px;
+  margin: 10px;
+  padding: 20px;
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+}
